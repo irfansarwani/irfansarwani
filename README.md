@@ -1,28 +1,19 @@
-## 👋 Hello, I'm Irfan Sarwani!
+# 👋 Hello, I'm Irfan Sarwani!
 
-## 👀 About Me
+## 👀 **About Me**
+- Passionate about **Mobile App Development**, focused on creating seamless, user-friendly experiences.  
+- Currently diving into **Flutter** and **Dart** to enhance my cross-platform development skills.
 
-Passionate about Mobile App Development with a focus on creating seamless, user-friendly experiences.
-Currently diving deep into Flutter and Dart to expand my expertise in cross-platform development.
+## 💼 **Let’s Collaborate!**
+- Open to working on innovative projects! Have a great idea? Let’s build it together 🚀
 
-## 💼 Let’s Collaborate!
+## 📫 **Get in Touch**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
-I'm open to working on exciting mobile apps and innovative projects. Have a great idea? Let's build it together! 🚀
+## 😄 **Pronouns**
+- He/Him
 
-## 📫 Get in Touch
-
-Email: [irfansarwani@gmail.com]
-
-[[LinkedIn Profile](https://www.linkedin.com/in/irfansarwani/)]
-
-
-[[Twitter Handle]](https://x.com/irfansarwani)
-
-
-## 😄 Pronouns
-
-He/Him
-
-## ⚡ Fun Fact
-
-When I’m not coding, you can find me exploring the latest tech trends, trying new cuisines, or traveling! 🌍 ✈️
+## ⚡ **Fun Fact**
+- When I’m not coding, you can find me exploring new technologies, trying different cuisines, or traveling the world! 🌍 ✈️
