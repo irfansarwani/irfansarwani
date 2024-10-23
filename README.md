@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Irfan Sarwani!
+# 👋 Hello, I'm Irfan Khan!
 
 ## 👀 **About Me**
 - Passionate about **Mobile App Development**, focused on creating seamless, user-friendly experiences.  
