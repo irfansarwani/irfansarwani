@@ -11,9 +11,13 @@ I'm open to working on exciting mobile apps and innovative projects. Have a grea
 
 ## 📫 Get in Touch
 
-Email: [Your Email Address]
-LinkedIn: [Your LinkedIn Profile]
-Twitter: [Your Twitter Handle]
+Email: [irfansarwani@gmail.com]
+
+LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/irfansarwani/)]
+
+
+Twitter: [[Your Twitter Handle]](https://x.com/irfansarwani)
+
 
 ## 😄 Pronouns
 
