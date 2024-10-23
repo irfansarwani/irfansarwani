@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/irfansarwani)  
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/irfansarwani)  
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015edac2abc31f8176)  
-[![PeoplePerHour](https://img.shields.io/badge/PeoplePerHour-1A1A1A?style=for-the-badge&logo=people-per-hour&logoColor=white)]([https://www.peopleperhour.com/freelancer/irfansarwani](https://www.peopleperhour.com/freelancer/marketing-seo/irfan-khan-google-my-business-reddit-zyqwayv))
+
 
 ## 😄 **Pronouns**
 - He/Him
