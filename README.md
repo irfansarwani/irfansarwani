@@ -13,10 +13,10 @@ I'm open to working on exciting mobile apps and innovative projects. Have a grea
 
 Email: [irfansarwani@gmail.com]
 
-LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/irfansarwani/)]
+[[LinkedIn Profile](https://www.linkedin.com/in/irfansarwani/)]
 
 
-Twitter: [[Your Twitter Handle]](https://x.com/irfansarwani)
+[[Twitter Handle]](https://x.com/irfansarwani)
 
 
 ## 😄 Pronouns
